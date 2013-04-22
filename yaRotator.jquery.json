@@ -3,10 +3,11 @@
 "title": "Yet-Another Rotator",
 "description": "A simple jQuery plugin for creating slideshows or cycling a set of abstract content.",
 "keywords": [
-"color",
-"animation"
+"slideshow",
+"ui",
+"rotator"
 ],
-"version": "0.1.0",
+"version": "0.1.1",
 "author": {
 "name": "Rudyard Murdough",
 "email": "rmurdough@gmail.com",
@@ -14,6 +15,9 @@
 },
 "maintainers": [
 {
+"name": "Rudyard Murdough",
+"email": "rmurdough@gmail.com",
+"url": "http://www.rudyardmurdough.com"
 }
 ],
 "licenses": [
