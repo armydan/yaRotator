@@ -1,0 +1,32 @@
+{
+"name": "yaRotator",
+"title": "Yet-Another Rotator",
+"description": "A simple jQuery plugin for creating slideshows or cycling a set of abstract content.",
+"keywords": [
+"color",
+"animation"
+],
+"version": "0.1.0",
+"author": {
+"name": "Rudyard Murdough",
+"email": "rmurdough@gmail.com",
+"url": "http://www.rudyardmurdough.com"
+},
+"maintainers": [
+{
+}
+],
+"licenses": [
+{
+"type": "GPL",
+"url": "http://www.opensource.org/licenses/gpl-license.php"
+}
+],
+"bugs": "http://www.rudyardmurdough.com",
+"homepage": "http://www.rudyardmurdough.com",
+"docs": "http://www.rudyardmurdough.com",
+"download": "https://github.com/rmurdough/yaRotator",
+"dependencies": {
+"jquery": ">=1.5"
+}
+}
