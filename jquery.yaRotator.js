@@ -3,7 +3,7 @@
  * Copyright (c) 2013 Rudyard Murdough (www.rudyardmurdough.com)
  * Licensed under the GPL (http://www.opensource.org/licenses/gpl-license.php) license.
  * 
- * Version 0.1
+ * Version 0.1.1
  *
  */
 (function($) {
